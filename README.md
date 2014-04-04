@@ -14,6 +14,6 @@ Y Nuestro Adventuras en la Pura Vida
 
 ####[Home Sweet Home]()
 
-####[Bad Country]()
+####[Bad Country](https://github.com/bbthorson/Los-Gringos-Gigantes/blob/master/Bad%20Country.md)
 
 ####[Hostel - Part 1]()
